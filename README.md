@@ -12,3 +12,6 @@ I learned how to create CAD with increased parametric capability, along with opt
 |-----------------------------------|-----------------------------------------|----:|----------------:|-----------------:|----------------------------------------------------------------------------------------------------|-------------|
 | PLA Basic Filament                | Filament for the entirety of the project|   1 |          $22.99 |           $22.99 | https://us.store.bambulab.com/products/pla-basic-filament?id=41142110093448                       | Bambu Lab   |
 | #8 × 1-1/4 in. Zinc-Plated Wood Screw | Mounting the filament holder         |   2 |           $0.25 |            $0.50 | https://www.lowes.com/pd/Hillman-8-x-1-1-4-in-Silver-Zinc-Plated-Flat-Interior-Exterior-Wood-Screws-8-Count/3035666 | Lowe's      |
+
+Total cost:
+$23.49
